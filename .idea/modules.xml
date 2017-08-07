@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/STTsample.iml" filepath="$PROJECT_DIR$/STTsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/json-simple-1.1.1/json-simple-1.1.1.iml" filepath="$PROJECT_DIR$/json-simple-1.1.1/json-simple-1.1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_SNA.iml" filepath="$PROJECT_DIR$/project_SNA.iml" />
     </modules>
   </component>
 </project>
